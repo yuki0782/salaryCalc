@@ -1,0 +1,168 @@
+object main: Tmain
+  Left = 307
+  Height = 335
+  Top = 224
+  Width = 1211
+  Caption = 'main'
+  ClientHeight = 335
+  ClientWidth = 1211
+  DesignTimePPI = 120
+  OnCreate = FormCreate
+  LCLVersion = '2.2.4.0'
+  object editRequired: TEdit
+    Left = 152
+    Height = 28
+    Top = 27
+    Width = 144
+    TabOrder = 0
+    Text = '229.5'
+  end
+  object roleBox: TComboBox
+    Left = 152
+    Height = 28
+    Top = 83
+    Width = 144
+    DropDownCount = 10
+    ItemHeight = 20
+    Items.Strings = (
+      '实习店员'
+      '调茶师'
+      '资深调茶师'
+      '训练员'
+      '副店长'
+      '实习店长'
+      '店长'
+      '资深店长'
+      '区域经理'
+    )
+    TabOrder = 2
+  end
+  object Button1: TButton
+    Left = 40
+    Height = 48
+    Top = 200
+    Width = 137
+    Caption = '计算'
+    Default = True
+    OnClick = Button1Click
+    TabOrder = 6
+  end
+  object Label1: TLabel
+    Left = 76
+    Height = 24
+    Top = 85
+    Width = 72
+    Caption = '员工级别'
+    Font.CharSet = GB2312_CHARSET
+    Font.Height = -18
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentColor = False
+    ParentFont = False
+  end
+  object Label2: TLabel
+    Left = 40
+    Height = 24
+    Top = 29
+    Width = 108
+    Caption = '本月标准工时'
+    Font.CharSet = GB2312_CHARSET
+    Font.Height = -18
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentColor = False
+    ParentFont = False
+  end
+  object editPerformance: TEdit
+    Left = 480
+    Height = 28
+    Top = 27
+    Width = 232
+    TabOrder = 1
+    Text = '400'
+  end
+  object editTotal: TEdit
+    Left = 480
+    Height = 28
+    Top = 83
+    Width = 147
+    TabOrder = 3
+    Text = '229.5'
+  end
+  object editOT2: TEdit
+    Left = 152
+    Height = 28
+    Top = 139
+    Width = 144
+    TabOrder = 4
+    Text = '0'
+  end
+  object editOT3: TEdit
+    Left = 480
+    Height = 28
+    Top = 139
+    Width = 147
+    TabOrder = 5
+    Text = '0'
+  end
+  object memoOut: TMemo
+    Left = 752
+    Height = 277
+    Top = 27
+    Width = 416
+    ScrollBars = ssAutoVertical
+    TabOrder = 7
+  end
+  object Label3: TLabel
+    Left = 396
+    Height = 24
+    Top = 29
+    Width = 72
+    Caption = '绩效金额'
+    Font.CharSet = GB2312_CHARSET
+    Font.Height = -18
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentColor = False
+    ParentFont = False
+  end
+  object Label4: TLabel
+    Left = 396
+    Height = 24
+    Top = 85
+    Width = 72
+    Caption = '实际工时'
+    Font.CharSet = GB2312_CHARSET
+    Font.Height = -18
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentColor = False
+    ParentFont = False
+  end
+  object Label5: TLabel
+    Left = 40
+    Height = 24
+    Top = 141
+    Width = 108
+    Caption = '两倍工资工时'
+    Font.CharSet = GB2312_CHARSET
+    Font.Height = -18
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentColor = False
+    ParentFont = False
+  end
+  object Label6: TLabel
+    Left = 360
+    Height = 24
+    Top = 141
+    Width = 108
+    Caption = '三倍工资工时'
+    Font.CharSet = GB2312_CHARSET
+    Font.Height = -18
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    ParentColor = False
+    ParentFont = False
+  end
+end

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="salary.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="24"/>
+        <UsageCount Value="49"/>
+      </Unit>
+      <Unit>
+        <Filename Value="calc.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="main"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="228"/>
+        <CursorPos X="7" Y="235"/>
+        <UsageCount Value="49"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="d:\lazarus\fpc\3.2.2\source\rtl\objpas\sysutils\sysstr.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="842"/>
+        <CursorPos X="10" Y="856"/>
+        <UsageCount Value="14"/>
+      </Unit>
+      <Unit>
+        <Filename Value="d:\lazarus\fpc\3.2.2\source\rtl\objpas\classes\classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="775"/>
+        <CursorPos X="89" Y="784"/>
+        <UsageCount Value="12"/>
+      </Unit>
+      <Unit>
+        <Filename Value="d:\lazarus\fpc\3.2.2\source\rtl\win64\classes.pp"/>
+        <UnitName Value="Classes"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="4" Y="2"/>
+        <UsageCount Value="12"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Users\id\AppData\Local\lazarus\onlinepackagemanager\packages\richmemo\richmemo.pas"/>
+        <UnitName Value="RichMemo"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="223"/>
+        <CursorPos X="15" Y="237"/>
+        <UsageCount Value="11"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Users\id\AppData\Local\lazarus\onlinepackagemanager\packages\richmemo\richmemohelpers.pas"/>
+        <UnitName Value="RichMemoHelpers"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="203"/>
+        <CursorPos X="33" Y="216"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\lazarus\fpc\3.2.2\source\rtl\objpas\sysutils\datih.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="108"/>
+        <CursorPos X="18" Y="131"/>
+        <UsageCount Value="17"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="calc.pas"/>
+        <Caret Line="196" TopLine="185"/>
+      </Position>
+      <Position>
+        <Filename Value="calc.pas"/>
+        <Caret Line="198" TopLine="185"/>
+      </Position>
+      <Position>
+        <Filename Value="calc.pas"/>
+        <Caret Line="196" TopLine="185"/>
+      </Position>
+      <Position>
+        <Filename Value="calc.pas"/>
+        <Caret Line="198" TopLine="185"/>
+      </Position>
+      <Position>
+        <Filename Value="calc.pas"/>
+        <Caret Line="196" TopLine="185"/>
+      </Position>
+      <Position>
+        <Filename Value="calc.pas"/>
+        <Caret Line="200" TopLine="185"/>
+      </Position>
+      <Position>
+        <Filename Value="calc.pas"/>
+        <Caret Line="203" TopLine="185"/>
+      </Position>
+      <Position>
+        <Filename Value="calc.pas"/>
+        <Caret Line="196" TopLine="185"/>
+      </Position>
+      <Position>
+        <Filename Value="calc.pas"/>
+        <Caret Line="198" TopLine="185"/>
+      </Position>
+      <Position>
+        <Filename Value="calc.pas"/>
+        <Caret Line="196" TopLine="185"/>
+      </Position>
+      <Position>
+        <Filename Value="calc.pas"/>
+        <Caret Line="198" TopLine="185"/>
+      </Position>
+      <Position>
+        <Filename Value="calc.pas"/>
+        <Caret Line="196" TopLine="185"/>
+      </Position>
+      <Position>
+        <Filename Value="calc.pas"/>
+        <Caret Line="198" TopLine="185"/>
+      </Position>
+      <Position>
+        <Filename Value="calc.pas"/>
+        <Caret Line="196" TopLine="185"/>
+      </Position>
+      <Position>
+        <Filename Value="calc.pas"/>
+        <Caret Line="198" TopLine="185"/>
+      </Position>
+      <Position>
+        <Filename Value="calc.pas"/>
+        <Caret Line="196" TopLine="185"/>
+      </Position>
+      <Position>
+        <Filename Value="calc.pas"/>
+        <Caret Line="198" TopLine="185"/>
+      </Position>
+      <Position>
+        <Filename Value="calc.pas"/>
+        <Caret Line="196" TopLine="185"/>
+      </Position>
+      <Position>
+        <Filename Value="calc.pas"/>
+        <Caret Line="200" TopLine="185"/>
+      </Position>
+      <Position>
+        <Filename Value="calc.pas"/>
+        <Caret Line="153" Column="22" TopLine="136"/>
+      </Position>
+      <Position>
+        <Filename Value="calc.pas"/>
+        <Caret Line="193" Column="31" TopLine="171"/>
+      </Position>
+      <Position>
+        <Filename Value="calc.pas"/>
+        <Caret Line="369" Column="33" TopLine="346"/>
+      </Position>
+      <Position>
+        <Filename Value="calc.pas"/>
+        <Caret Line="196" Column="31" TopLine="182"/>
+      </Position>
+      <Position>
+        <Filename Value="calc.pas"/>
+        <Caret Line="214" Column="33" TopLine="188"/>
+      </Position>
+      <Position>
+        <Filename Value="calc.pas"/>
+        <Caret Line="240" TopLine="230"/>
+      </Position>
+      <Position>
+        <Filename Value="calc.pas"/>
+        <Caret Line="243" TopLine="230"/>
+      </Position>
+      <Position>
+        <Filename Value="calc.pas"/>
+        <Caret Line="244" TopLine="230"/>
+      </Position>
+      <Position>
+        <Filename Value="calc.pas"/>
+        <Caret Line="245" TopLine="230"/>
+      </Position>
+      <Position>
+        <Filename Value="calc.pas"/>
+        <Caret Line="244" Column="31" TopLine="232"/>
+      </Position>
+      <Position>
+        <Filename Value="calc.pas"/>
+        <Caret Line="335" Column="56" TopLine="319"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <Watches>
+      <Item>
+        <Expression Value="stores[1]"/>
+      </Item>
+    </Watches>
+  </Debugging>
+</CONFIG>
